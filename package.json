@@ -1,0 +1,12 @@
+{
+  "name": "snyk-demo",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node src/demoService.js",
+    "lint": "eslint src/ test/"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "description": "snyk-demo"
+}
